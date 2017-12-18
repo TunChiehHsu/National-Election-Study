@@ -2,4 +2,5 @@
 
 # Logistic Regression 
 
-We will explore logistic regression with the National Election Study data from Gelman & Hill (GH). 
+A case study of STA 521 Predictive Modeling at Duke University. 
+We will explore the National Election Study data from Gelman & Hill (GH) with logistic regression. 
